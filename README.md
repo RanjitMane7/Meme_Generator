@@ -1,2 +1,2 @@
 # Meme_Generator
-The tool is will write the given written line on the provided Image, adjusting the text wrap.
+The tool will write the given line on the provided Image, adjusting the text wrap.
